@@ -1,0 +1,11 @@
+{
+  "short_name": "Crypto Dashboard",
+  "name": "Plate",
+  "icons": [
+  ],
+  "start_url": "/index",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#343f53",
+  "theme_color": "#343f53"
+}
