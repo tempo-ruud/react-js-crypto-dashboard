@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Head from 'shared/components/Head/Head.js';
+import Head from 'shared/components/Head/Head';
 
 export default () => (
     <div>
