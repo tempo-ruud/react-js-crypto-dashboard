@@ -1,9 +1,6 @@
 import React from 'react';
 
-import Head from 'shared/components/Head/Head';
+import Home from '../views/Home';
+import { pageWithDefaultLayout } from '../layout/page'
 
-export default () => (
-    <div>
-        <Head title="Home" />
-    </div>
-);
+export default pageWithDefaultLayout(() => <Home />);
